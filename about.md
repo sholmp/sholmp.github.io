@@ -4,4 +4,4 @@ title: About me
 permalink: /about/
 ---
 
-I am a robotics student from Denmark.
+Hi my name is Søren. I am a robotics student from Denmark.
