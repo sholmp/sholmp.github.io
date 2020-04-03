@@ -3,13 +3,15 @@
 #
 
 # Name of your site (displayed in the header)
-name: Soren Holm
+name: SHP
 
 # Short bio or description (displayed in the header)
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+# avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: /images/rejuv-logo.png
+
 
 #
 # Flags below are optional

@@ -1,4 +1,7 @@
 <!DOCTYPE html>
+<script type="text/javascript"
+    src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 <html>
   <head>
     <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
@@ -38,13 +41,13 @@
       {{ content }}
     </div>
 
-    <div class="wrapper-footer">
+<!--     <div class="wrapper-footer">
       <div class="container">
         <footer class="footer">
           {% include svg-icons.html %}
         </footer>
       </div>
-    </div>
+    </div> -->
 
     {% include analytics.html %}
   </body>
